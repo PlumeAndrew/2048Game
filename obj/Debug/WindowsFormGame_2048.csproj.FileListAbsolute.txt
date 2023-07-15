@@ -1,0 +1,10 @@
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.csprojAssemblyReference.cache
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.Form1.resources
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.Properties.Resources.resources
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.csproj.GenerateResource.cache
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.csproj.CoreCompileInputs.cache
+D:\C#\WindowsFormGame_2048\bin\Debug\WindowsFormGame_2048.exe.config
+D:\C#\WindowsFormGame_2048\bin\Debug\WindowsFormGame_2048.exe
+D:\C#\WindowsFormGame_2048\bin\Debug\WindowsFormGame_2048.pdb
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.exe
+D:\C#\WindowsFormGame_2048\obj\Debug\WindowsFormGame_2048.pdb
